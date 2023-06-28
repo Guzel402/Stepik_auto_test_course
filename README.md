@@ -1,5 +1,5 @@
 # Stepik_auto_test_course
 Stepik_home_work
-Плюп
+Just for double check
 
-Добавила что то еще
+New_text
